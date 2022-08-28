@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@main
     - name: PullRequestHandler
-      uses: ScoopInstaller/GithubActions@main
+      uses: shiena/GithubActions@test
       if: startsWith(github.event.comment.body, '/verify')
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
