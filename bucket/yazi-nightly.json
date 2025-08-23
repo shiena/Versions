@@ -1,5 +1,5 @@
 {
-    "version": "ceb57a5",
+    "version": "98a5828",
     "description": "⚡️ Blazing fast terminal file manager written in Rust, based on async I/O.",
     "homepage": "https://github.com/sxyazi/yazi",
     "license": "MIT",
