@@ -1,18 +1,18 @@
 {
     "homepage": "https://rclone.org",
     "description": "rsync for cloud storage",
-    "version": "1.72.0-beta.9033.b010591c9",
+    "version": "1.72.0-beta.9038.43a794860",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://beta.rclone.org/v1.72.0-beta.9033.b010591c9/rclone-v1.72.0-beta.9033.b010591c9-windows-amd64.zip",
-            "extract_dir": "rclone-v1.72.0-beta.9033.b010591c9-windows-amd64",
-            "hash": "bba11ca230843966233f19d114238b3cc0fcae559bd327f441a07b627733f205"
+            "url": "https://beta.rclone.org/v1.72.0-beta.9038.43a794860/rclone-v1.72.0-beta.9038.43a794860-windows-amd64.zip",
+            "extract_dir": "rclone-v1.72.0-beta.9038.43a794860-windows-amd64",
+            "hash": "c7bf89f5b7a07b24dcce0996541e1678ada5a19fdb7ce41076e3b1433b6d090d"
         },
         "32bit": {
-            "url": "https://beta.rclone.org/v1.72.0-beta.9033.b010591c9/rclone-v1.72.0-beta.9033.b010591c9-windows-386.zip",
-            "extract_dir": "rclone-v1.72.0-beta.9033.b010591c9-windows-386",
-            "hash": "2ceaba5e1c88255c05b13aabde4a38738fc344034db3c6bc2490424035581169"
+            "url": "https://beta.rclone.org/v1.72.0-beta.9038.43a794860/rclone-v1.72.0-beta.9038.43a794860-windows-386.zip",
+            "extract_dir": "rclone-v1.72.0-beta.9038.43a794860-windows-386",
+            "hash": "9313f28b21913f05d32da7e82b4c639bec51c76f9b30c3bfbc762b913148b2f2"
         }
     },
     "bin": [
