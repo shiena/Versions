@@ -1,12 +1,12 @@
 {
-    "version": "13043",
+    "version": "13047",
     "description": "A client for Matrix, the decentralized communication protocol",
     "homepage": "https://apps.kde.org/neochat/",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://cdn.kde.org/ci-builds/network/neochat/master/windows/neochat-master-13043-windows-cl-msvc2022-x86_64.7z",
-            "hash": "c09d7a6ecbcf45ff528194642a2d7e8248de6c58827b5f16ba01ac9eba7acc4a"
+            "url": "https://cdn.kde.org/ci-builds/network/neochat/master/windows/neochat-master-13047-windows-cl-msvc2022-x86_64.7z",
+            "hash": "ce8e2e7334bda94e68ab4260f1518258b8bda1df632c349748d08286d048d7e0"
         }
     },
     "bin": [
