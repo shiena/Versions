@@ -1,5 +1,5 @@
 {
-    "version": "25.2.3-2025-10-06",
+    "version": "25.2.3-2025-10-07",
     "description": "Database tool for developers, SQL programmers, database administrators and analysts. (Early Access)",
     "homepage": "https://dbeaver.io",
     "license": "Apache-2.0",
@@ -13,7 +13,7 @@
     "architecture": {
         "64bit": {
             "url": "https://dbeaver.io/files/ea/dbeaver-ce-25.2.3-win32.win32.x86_64.zip",
-            "hash": "a357e28aeadf5b340888bfd2753c6faf5d5e41b07435e697e878a7006c445c3f"
+            "hash": "6ba35a471b33f090012221e73a09bac93fdea3095c2b916913acdc3132067492"
         }
     },
     "extract_dir": "dbeaver",
