@@ -1,12 +1,12 @@
 {
-    "version": "0.5.1627",
+    "version": "0.5.1628",
     "description": "A Git client for simultaneous branches on top of your existing workflow.",
     "homepage": "https://gitbutler.com/",
     "license": "FSL-1.1-MIT",
     "architecture": {
         "64bit": {
-            "url": "https://releases.gitbutler.com/releases/nightly/0.5.1627-2529/windows/x86_64/GitButler_Nightly_0.5.1627_x64_en-US.msi",
-            "hash": "fbb57dd2696e891d193e4afe15cc0f824d53ca694ffc8ff6726750473640ecea",
+            "url": "https://releases.gitbutler.com/releases/nightly/0.5.1628-2531/windows/x86_64/GitButler_Nightly_0.5.1628_x64_en-US.msi",
+            "hash": "77dac0a4c883594a6bdf6ead5126b49ab485513e601a2078846dcee0eccc02c9",
             "extract_dir": "PFiles/GitButler Nightly"
         }
     },
