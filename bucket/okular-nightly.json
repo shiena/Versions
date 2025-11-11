@@ -1,12 +1,12 @@
 {
-    "version": "6910",
+    "version": "6912",
     "description": "Universal document viewer",
     "homepage": "https://okular.kde.org",
     "license": "LGPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://cdn.kde.org/ci-builds/graphics/okular/master/windows/okular-master-6910-windows-cl-msvc2022-x86_64.7z",
-            "hash": "544a58e34a6e791d5fc4f240519edc511d99286570bfd93e591298d653fc0dd1"
+            "url": "https://cdn.kde.org/ci-builds/graphics/okular/master/windows/okular-master-6912-windows-cl-msvc2022-x86_64.7z",
+            "hash": "df5844d39c751bddf9c75729a0ae55d79e4a6ec443c6fd0f923f9b39894d5183"
         }
     },
     "bin": [
